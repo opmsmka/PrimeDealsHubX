@@ -1,0 +1,2 @@
+# PrimeDealsHubX
+Curated digital deals
